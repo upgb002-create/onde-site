@@ -1,0 +1,6 @@
+# Gitignore
+git_temp/
+.system_generated/
+*.log
+.DS_Store
+Thumbs.db
